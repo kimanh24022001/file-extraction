@@ -51,13 +51,11 @@ def extract_pdf_text_details(pdf_path, output_file):
                         font_size = span["size"]
                         font_color = span.get("color", None)
                         
-                        # Ensure flags is treated as a string
-                        flags = str(span.get("flags", "")).lower()  # Convert to string and lowercase
+                        flags = str(span.get("flags", "")).lower() 
                         
                         is_bold = "bold" in flags
                         is_italic = "italic" in flags
                         
-                        # Store the extracted details
                         paragraphs.append({
                             "text": text_content,
                             "font": font_name,
@@ -92,14 +90,11 @@ def extract_and_uppercase_pdf(input_pdf_path, output_pdf_path):
             input_page = input_doc.load_page(page_num)
             output_page = output_doc.new_page(width=input_page.rect.width, height=input_page.rect.height)
 
-            # Copy page content
             output_page.show_pdf_page(input_page.rect, input_doc, page_num)
 
-            # Process annotations (form fields)
             annotations = input_page.annots()
             for annot in annotations:
                 if annot["subtype"] == "/Widget":
-                    # Copy form fields
                     output_annot = output_page.add_annotation(
                         annot["rect"],
                         subtype=annot["subtype"],
@@ -117,7 +112,7 @@ def extract_and_uppercase_pdf(input_pdf_path, output_pdf_path):
                         output_annot.set_contents(uppercased_contents)
 
         # Save output PDF
-        output_doc.save(output_pdf_path+"_new.pdf")
+        output_doc.save(os.path.join(output_pdf_path, "uppercase.pdf"))
 
     finally:
         # Close documents

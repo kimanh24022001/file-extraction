@@ -38,7 +38,6 @@ def extract_docx_text_details(docx_path, output_file):
         for para in doc.paragraphs:
             text_content = para.text.strip()
 
-            # Font details
             font_name = para.style.font.name if para.style.font and para.style.font.name else "Not specified"
             font_size = para.style.font.size.pt if para.style.font and para.style.font.size else "Not specified"
 
@@ -75,6 +74,7 @@ def extract_and_uppercase_docx(input_path, output_path):
     doc = Document(input_path)
     new_doc = Document()
 
+    # Copy paragraphs
     for para in doc.paragraphs:
         new_para = new_doc.add_paragraph()
         for run in para.runs:
@@ -86,17 +86,15 @@ def extract_and_uppercase_docx(input_path, output_path):
             new_run.font.name = run.font.name
             if run.font.color.rgb:
                 new_run.font.color.rgb = RGBColor(run.font.color.rgb[0], run.font.color.rgb[1], run.font.color.rgb[2])
-
         new_para.alignment = para.alignment
 
+    # Copy tables
     for table in doc.tables:
         new_table = new_doc.add_table(rows=len(table.rows), cols=len(table.columns))
         for i, row in enumerate(table.rows):
             for j, cell in enumerate(row.cells):
                 new_cell = new_table.cell(i, j)
                 new_cell.text = cell.text.upper()
-                new_cell.paragraphs[0].alignment = cell.paragraphs[0].alignment
-
                 for paragraph in cell.paragraphs:
                     for run in paragraph.runs:
                         new_run = new_cell.paragraphs[-1].add_run(run.text.upper())

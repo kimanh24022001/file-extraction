@@ -29,10 +29,9 @@ def main():
          output_path = os.path.join(output_dir, filename.split('.')[0].lower()) 
          extract_from_docx(file_path, output_path)
          extract_docx_text_details(file_path, output_path)
-         extract_and_uppercase_docx(file_path, os.path.join(output_dir, 'uppercase_' + filename))
+         extract_and_uppercase_docx(file_path, output_path)
     elif ext == 'pptx':
-        output_path = os.path.join(output_dir, "pptx") 
-        output_path = os.path.join(output_path, filename.split('.')[0].lower()) 
+        output_path = os.path.join(output_dir, filename.split('.')[0].lower()) 
         translate_pptx(file_path, output_path)
     else:
         print('Unsupported file type')

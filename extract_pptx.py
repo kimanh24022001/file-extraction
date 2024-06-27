@@ -15,5 +15,5 @@ def translate_pptx(pptx_path, output_path, source_lang='auto', target_lang='vi')
                     translated_text = translator.translate(run.text)
                     run.text = run.text + "\n" + translated_text
 
-    prs.save(output_path)
+    prs.save(os.path.join(output_path, 'translate.pptx'))
  
