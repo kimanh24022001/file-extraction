@@ -1,0 +1,8 @@
+PyMuPDF
+python-docx
+python-pptx
+deep-translator
+fpdf
+Flask
+Pillow 
+reportlab 
