@@ -1,0 +1,144 @@
+Text Content: SCHEDULE OF THE MEETING
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: 
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Meeting date: October 28th, 2023
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: True
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Estimated time: from 9:45 a.m. - 12:18 p.m.
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: True
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Location: Classroom D202 (Area D) - Danang University of Economics
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: True
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Participants:
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: True
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Reporting groups include: Cin, Appendicitis, Mabu, Blue Ribbon.
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Team leader - ABC
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Receptionist Group - SevenTeen
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Logistics Staff - MB
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: 
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: 
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: Hope the meeting goes well!
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: True
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: 
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: 
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: True
+Is Italic: True
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------
+Text Content: 
+Font Name: Not specified
+Font Size: Not specified
+Is Bold: False
+Is Italic: False
+Is Underline: False
+Text Color (RGB): None
+Text Color (Hex): Not specified
+-------------------------

@@ -1,0 +1,1750 @@
+Text:  
+Font: Arial-BoldMT
+Size: 18.0
+Color: 3302911
+Bold: False
+Italic: False
+
+Text: Part 3: Needs Met Rating Guideline 
+Font: Arial-BoldMT
+Size: 18.0
+Color: 3302911
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 12.0
+Color: 3302911
+Bold: False
+Italic: False
+
+Text: 13.0  
+Font: Arial-BoldMT
+Size: 12.0
+Color: 3302911
+Bold: False
+Italic: False
+
+Text: Rating Using the Needs Met Scale 
+Font: Arial-BoldMT
+Size: 12.0
+Color: 3302911
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: There  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: are  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: many  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: different  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: kinds  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: of  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: queries  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: and  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: results,  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: but  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: the  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: process  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: of  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: rating  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: is  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: the  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: same: 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Needs  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Met  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: rating  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: tasks  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: ask 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: you to focus on user needs and think about how helpful and satisfying the result is for the users 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: . 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: This is what the Needs Met rating slider looks like: 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Rating 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Description 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Fully Meets (FullyM) 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 2171169
+Bold: False
+Italic: False
+
+Text: A special rating category, which only applies to certain queries and results. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 2171169
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: All or almost all 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: users would be immediately and fully satisfied by the result and would not need to view other 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: results to satisfy their need. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Highly Meets (HM) 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 2171169
+Bold: False
+Italic: False
+
+Text: Very helpful for many or most users.  Some users may wish to see additional results. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 2171169
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Moderately Meets (MM) 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Helpful for many users OR very helpful for some users.  Some or many users may wish to 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: see additional results. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Slightly Meets (SM) 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Helpful for fewer users.  There is a connection between the query and the result, but not a 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: strong or satisfying connection.  Many or most users would wish to see additional results. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Fails to Meet (FailsM) 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Completely fails to meet the needs of the users.  All or almost all users would wish to see 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: additional results. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Please  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: note  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: that  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: you  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: may  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: assign 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: in-between 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: ratings.  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Use  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: in-between  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: ratings  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: if  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: you  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: think  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: the  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: rating  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: of  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: a  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: result  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: falls 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: between two labels.  You can either drag the slider or click on the point that you want the slider to land on. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 10.994999885559082
+Color: 3302911
+Bold: False
+Italic: False
+
+Text: 13.1 
+Font: Arial-BoldMT
+Size: 10.994999885559082
+Color: 3302911
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 10.994999885559082
+Color: 3302911
+Bold: False
+Italic: False
+
+Text: Rating Result Blocks: Block Content and Landing Pages 
+Font: Arial-BoldMT
+Size: 10.994999885559082
+Color: 3302911
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: For Needs Met rating, you will assign a rating to each result.  Each result includes the content inside the result block and 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: landing pages associated with the result.   
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Which part of the result do you rate?  It depends on both the query and the result block: 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Type of Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: What to Rate 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Special Content Result Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: (SCRB) 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Note: Assume that interactive 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: result blocks function as intended. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Try to interact with the result block 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: as some links, buttons, or other 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: features in your rating task may 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: work. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: The content inside this type of block should always play a large role in your rating.   
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Some Special Content Result Blocks may have links to landing pages.  In these 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: cases, think about whether a user would click on the link in order to satisfy their 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: user need. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: ● 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: If most users would not click, rate the Special Content Result Block based 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: on the block content alone. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: ● 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: If some or many users would click, you may consider the helpfulness of the 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: landing page(s) in addition to the content in the block.  In this case, 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-ItalicMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: both 
+Font: Arial-ItalicMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: need to be helpful to justify a high rating. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Web Search Result Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: A click is required, and you should evaluate the landing page to assign a rating. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Copyright 2022 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: 98 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: For example, think about the query [what does love mean]. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Result Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query: [what does love mean] 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Rating 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Special Content Result Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Most users would probably not click on 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: the Special Content Result Block, 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: because the block contains a large 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: amount of helpful content and has no 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: obvious landing page link associated 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: with it. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Therefore, base your rating on the 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: content inside the block itself. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Web Search Result Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: In this case, users would have to click on 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: the web search result in order to get an 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: answer to the question. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Therefore, base your rating on the 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: content of the landing page. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Copyright 2022 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: 99 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Here are some examples of Special Content Result Blocks where the block should be rated primarily on the content inside 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: the block itself.  As always, please use your judgment. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query and Special Content Result Block 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: : [utopia animal hospital] 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: : [chicago weather] 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query: 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: [calories in a banana] 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: : [how to find security code on 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: visa] 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: : [how did Lincoln die] 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Query 
+Font: Arial-BoldMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: : [movies san francisco] 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Note: The guidance in this section specifically applies to Needs Met ratings.  For Special Content Result Blocks that have 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: landing pages, you may or may not also be asked to provide PQ ratings.  In these cases, your PQ rating should always be 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: based on the landing page.  Please refer to 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 1070284
+Bold: False
+Italic: False
+
+Text: Section  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 1070284
+Bold: False
+Italic: False
+
+Text: 14.0 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 1070284
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: for more about the relationship between Needs  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Met and Page 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Quality ratings. 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: Copyright 2022 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text:  
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
+Text: 100 
+Font: ArialMT
+Size: 9.9975004196167
+Color: 0
+Bold: False
+Italic: False
+
