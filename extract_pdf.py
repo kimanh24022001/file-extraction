@@ -80,40 +80,23 @@ def extract_pdf_text_details(pdf_path, output_file):
     print(f"text details saved to {output_file}")
 
 def extract_and_uppercase_pdf(input_pdf_path, output_pdf_path):
-    # Create new PDF for output
-    input_doc = fitz.open(input_pdf_path)
-    output_doc = fitz.open()
+    doc = fitz.open(input_pdf_path)
+    new_doc = fitz.open()
 
-    try:
-        # Iterate through pages
-        for page_num in range(len(input_doc)):
-            input_page = input_doc.load_page(page_num)
-            output_page = output_doc.new_page(width=input_page.rect.width, height=input_page.rect.height)
+    for page_num in range(len(doc)):
+        page = doc.load_page(page_num)
+        new_page = new_doc.new_page(width=page.rect.width, height=page.rect.height)
+        
+        blocks = page.get_text("dict")["blocks"]
+        
+        for block in blocks:
+            if block['type'] == 0:  # this block contains text
+                for line in block["lines"]:
+                    for span in line["spans"]:
+                        text = span["text"].upper()
+                        bbox = fitz.Rect(span['bbox'])
 
-            output_page.show_pdf_page(input_page.rect, input_doc, page_num)
+                        # Insert text into the new page with the same formatting
+                        new_page.insert_text(bbox.tl, text, fontsize=span['size'], fontname=span['font'], color=span['color'])
 
-            annotations = input_page.annots()
-            for annot in annotations:
-                if annot["subtype"] == "/Widget":
-                    output_annot = output_page.add_annotation(
-                        annot["rect"],
-                        subtype=annot["subtype"],
-                        contents=annot.get("contents", ""),
-                        appearance_stream=annot.get("AP", None),
-                        field_name=annot.get("T", None),
-                        flags=annot.get("F", 0),
-                        border_width=annot.get("BS", {}).get("W", 1)
-                    )
-
-                    # Convert form field contents to uppercase
-                    if annot.get("contents"):
-                        # Ensure contents are converted to string before uppercasing
-                        uppercased_contents = str(annot["contents"]).upper()
-                        output_annot.set_contents(uppercased_contents)
-
-        # Save output PDF
-        output_doc.save(os.path.join(output_pdf_path, "uppercase.pdf"))
-
-    finally:
-        # Close documents
-        output_doc.close()
+    new_doc.save(os.path.join(output_pdf_path, 'uppercase'))
